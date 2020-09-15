@@ -19,9 +19,13 @@
    * [Princípios de Algoritmos e Estruturas de Dados Usando Python](https://panda.ime.usp.br/algoritmos/static/algoritmos/index.html)
    * [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/AA-BOOKLET.pdf)
 <!--te-->
+<p align="center">
 
-Ok, vamos começar!
-Contéudo do mestrado.
+    Ok, vamos começar!
+    Contéudo do mestrado em computação aplicada.
+    
+</p>
+
 ![](https://www.ipt.br/imagens/logo_ipt.gif)
 
 ## Disciplina
