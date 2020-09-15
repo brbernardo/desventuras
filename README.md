@@ -28,8 +28,8 @@
 
 ![](https://www.ipt.br/imagens/logo_ipt.gif)
 
-## Disciplina
+## Disciplina e exercícios
 Estruturas de Dados e Análise de Algoritmos do Mestrado de computação aplicada
 
 - [x] [Problema do Segmento de Soma Máxima](https://github.com/brbernardo/desventuras/blob/master/SegmentodeSomaMaxima.ipynb)
-
+- [ ] [Lista de exercícios 1](https://github.com/brbernardo/desventuras/blob/master/SegmentodeSomaMaxima.ipynb)
