@@ -1,5 +1,6 @@
 # Determinando a soma máxima de um seg. de A[p ..d].
 
+```
 SEGMAX-DC (A, p, d ) 
     se p = d então devolva max(0,A[p]) 
     q ← ⌊ ( p + d ) / 2 ⌋ 
@@ -15,4 +16,4 @@ SEGMAX-DC (A, p, d )
         max2dir ← max(max2dir , soma ) 
     maxcruz ← max2esq + max2dir 
     devolva max(maxesq, maxcruz , maxdir )
-
+```
