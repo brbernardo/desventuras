@@ -31,5 +31,5 @@
 ## Disciplina
 Estruturas de Dados e Análise de Algoritmos do Mestrado de computação aplicada
 
-- [x] [Problema do Segmento de Soma Máxima](https://github.com/brbernardo/desventuras/tree/master/Segmento%20de%20Soma%20M%C3%A1xima)
+- [x] [Problema do Segmento de Soma Máxima](https://github.com/brbernardo/desventuras/blob/master/SegmentodeSomaMaxima.ipynb)
 
