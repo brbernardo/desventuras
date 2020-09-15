@@ -1,1 +1,2 @@
-# Projetinhos das aulas de Estruturas de Dados e Análise de Algoritmos do Mestrado de computação aplicada
+# Projetinhos 
+### Estruturas de Dados e Análise de Algoritmos do Mestrado de computação aplicada
