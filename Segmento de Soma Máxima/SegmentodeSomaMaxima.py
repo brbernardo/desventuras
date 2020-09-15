@@ -1,6 +1,6 @@
 import math
 
-def findMaxCrossingSubarray(A, low, mid, high):
+def SegmentoSomaMaxima(A, low, mid, high):
     leftSum = -math.inf
     _sum = 0
     maxLeft = 0
@@ -28,7 +28,7 @@ def findMaxSubarray(A, low, high):
 
         leftLow, leftHigh, leftSum = findMaxSubarray(A, low, mid)
         rightLow, rightHigh, rightSum = findMaxSubarray(A, mid + 1, high)
-        crossLow, crossHigh, crossSum = findMaxCrossingSubarray(A, low, mid, high)
+        crossLow, crossHigh, crossSum = SegmentoSomaMaxima(A, low, mid, high)
         
         if((leftSum >= rightSum) and (leftSum >= crossSum)):
             return leftLow, leftHigh, leftSum
