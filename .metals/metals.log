@@ -1,0 +1,8 @@
+2020.09.24 09:55:52 INFO  started: Metals version 0.9.4 in workspace '/Users/luiz.bernardo/Documents/GitHub/desventuras' for client vscode.
+2020.09.24 09:55:54 INFO  time: initialize in 2.11s
+2020.09.24 09:55:55 WARN  no build tool detected in workspace '/Users/luiz.bernardo/Documents/GitHub/desventuras'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.25 13:45:18 INFO  shutting down Metals
+2020.09.25 17:07:58 INFO  started: Metals version 0.9.4 in workspace '/Users/luiz.bernardo/Documents/GitHub/desventuras' for client vscode.
+2020.09.25 17:08:11 INFO  time: initialize in 12s
+2020.09.25 17:08:15 WARN  no build tool detected in workspace '/Users/luiz.bernardo/Documents/GitHub/desventuras'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.26 00:23:52 INFO  shutting down Metals
